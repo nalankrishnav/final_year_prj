@@ -1,0 +1,4 @@
+.\.venv\Scripts\activate
+python examples/run_ga_fixed.py --exp-name long_run_1000 --env-name Walker-v0 --pop-size 10 --max-evaluations 1000 --num-cores 4
+python prepare_stn.py long_run_1000 1
+Hashing long_run_1000_stn_input.txt output_stn_data.txt 2
