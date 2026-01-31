@@ -1,0 +1,4 @@
+"","instance","nodes","edges","nbest","nend","components","strength","plength","npaths"
+"1","DE_Rana_3D_stn",60,60,1,2,2,0.8,5.875,8
+"2","ILS_Rana_3D_stn",64,60,1,5,4,0.4,5,4
+"3","PSO_Rana_3D_stn",257,296,0,10,10,NA,NA,0
